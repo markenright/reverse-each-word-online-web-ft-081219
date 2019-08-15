@@ -4,6 +4,6 @@ str =  str.split()
 str.each do |part|
   part = part.reverse
 end
-
+p str
 
 
