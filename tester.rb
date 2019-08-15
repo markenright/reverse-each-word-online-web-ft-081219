@@ -1,6 +1,12 @@
 str = "Hello there, and how are you?"
 puts str
-puts str.split()
+str =  str.split()
+puts str
+
+
+
+
+
 
 
 arr = ["a", "b", "c"]
