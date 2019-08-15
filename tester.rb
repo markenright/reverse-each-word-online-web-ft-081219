@@ -4,4 +4,5 @@ puts str.split()
 
 
 arr = ["a", "b", "c"]
-p arr.join
+arr =  arr.join
+p arr
