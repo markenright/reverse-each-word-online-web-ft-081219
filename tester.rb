@@ -3,7 +3,7 @@ puts str
 str =  str.split()
 str.each do |part|
   part = part.reverse
-
+end
 
 
 
