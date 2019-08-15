@@ -1,8 +1,9 @@
 str = "Hello there, and how are you?"
 puts str
 str =  str.split()
+new_arr = []
 str.each do |part|
-  p part.reverse
+  new_arr << part.reverse
 end
 p str
 
