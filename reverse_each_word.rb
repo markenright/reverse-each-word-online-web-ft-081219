@@ -8,7 +8,7 @@ def reverse_each_word(word)  #string
     
   end
   p new_word  #array
-  new_word.join(" ")
+  new_word = new_word.join(" ")
   p new_word #string
   
 end
