@@ -5,6 +5,6 @@ new_arr = []
 str.each do |part|
   new_arr << part.reverse
 end
-p str
+p new_arr
 
 
